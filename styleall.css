@@ -8,6 +8,7 @@
   box-sizing: content-box;
   border-radius: 1.5rem;
   box-shadow: 0.7rem 0.5rem 1rem 0.1rem rgba(0, 0, 0, 55%);
+  overflow: auto;
 }
 
 .flexheader {
