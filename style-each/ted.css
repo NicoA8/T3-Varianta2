@@ -1,0 +1,50 @@
+.all {
+  background: linear-gradient(145deg, #fff 35%, #cdffda 65%);
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "Catamaran", sans-serif;
+}
+h1 {
+  width: 19rem;
+  line-height: 6.2rem;
+  font-size: 6.5rem;
+  color: #02701f;
+  margin: 0rem;
+}
+a.ted {
+  border-radius: 0.6rem;
+}
+a.ted:hover {
+  background-color: #000;
+  border-inline-end: 0.4rem solid #02701f;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 2.5rem;
+  margin: 0rem;
+  width: 17rem;
+  height: 6rem;
+  line-height: 3rem;
+}
+p.subtitle {
+  text-align: justify;
+  font-size: 1rem;
+  margin: 0rem;
+  width: 18rem;
+  line-height: 1.25rem;
+  margin: 0.3rem 0rem;
+}
+a.video {
+  color: #fff;
+  border-radius: 0.6rem;
+  background-color: #02701f;
+}
+a.video:hover {
+  color: white;
+  background-color: #000;
+}
+img.il {
+  width: 19rem;
+  height: 12rem;
+}

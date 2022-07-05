@@ -1,0 +1,47 @@
+.all {
+  background: radial-gradient(circle, #fff 35%, #d5eaff 65%);
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "Work Sans", sans-serif;
+}
+h1.title {
+  width: fit-content;
+  font-size: 3.5rem;
+  font-family: "Montserrat", sans-serif;
+  margin: 0rem;
+  padding: 0.5rem 0rem;
+}
+a.index {
+  border-radius: 3rem;
+}
+
+a.index:hover {
+  background-color: #425979;
+  border-inline-end: 0.4rem solid #71cf89;
+}
+h2 {
+  font-weight: 600;
+  font-size: 2.5rem;
+  margin: 0rem;
+  width: 12rem;
+  height: 9rem;
+}
+p.subtitle {
+  font-size: 1rem;
+  margin: 0rem;
+  width: 19rem;
+  height: 4rem;
+}
+a.video {
+  color: #000;
+  border-radius: 3rem;
+  background-color: #fcc840;
+}
+a.video:hover {
+  color: white;
+  background-color: #ee8038;
+}
+img.il {
+  width: 18rem;
+  height: 17rem;
+}

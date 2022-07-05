@@ -1,0 +1,49 @@
+.all {
+  background: linear-gradient(45deg, #000 30%, #ff2a03 70%);
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  width: fit-content;
+  font-size: 3.5rem;
+  font-weight: 900;
+  font-family: "Montserrat", sans-serif;
+  margin: 0rem;
+  padding: 0.5rem 0rem;
+}
+a.tedx {
+  border-radius: 0rem;
+}
+
+a.tedx:hover {
+  background-color: #000;
+  border-inline-end: 0.4rem solid #ff2a03;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 2rem;
+  margin: 0rem;
+  width: 20rem;
+  height: 7.3rem;
+}
+p.subtitle {
+  font-size: 1rem;
+  margin: 0rem;
+  width: 19rem;
+  height: 7.7rem;
+}
+a.video {
+  color: #fff;
+  border-radius: 0rem;
+  background-color: #000;
+}
+a.video:hover {
+  color: white;
+  background-color: #ff2a03;
+}
+img.il {
+  width: 17rem;
+  height: 15rem;
+}
